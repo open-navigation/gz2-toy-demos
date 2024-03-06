@@ -1,5 +1,5 @@
 # gz2-toy-demos
-A toy demo adding sensors to blocks in (new) Gazebo.
+A toy demo adding sensors to blocks in (new) Gazebo. Does not require compiling.
 
 ```
 cd gz_toy_demos
